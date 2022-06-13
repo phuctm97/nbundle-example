@@ -1,3 +1,9 @@
+**⚠️ This project is under development and is not ready for public use.**
+
+All `1.0.x` releases are considered `alpha` releases, are not stable, and may have breaking changes.
+
+---
+
 This is a [nbundle] project bootstrapped with [create-notion-app].
 
 # Get started
