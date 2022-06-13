@@ -1,9 +1,0 @@
-{
-  "permissions": ["activeTab"],
-  "content_scripts": [
-    {
-      "matches": ["https://www.notion.so/*"],
-      "js": ["notion"]
-    }
-  ]
-}

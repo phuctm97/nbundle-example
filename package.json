@@ -5,12 +5,7 @@
   "description": "Example of a nbundle app",
   "private": true,
   "workspaces": [
-    "app",
-    "browser/content-scripts/*",
-    "browser/web-accessible-scripts/*",
-    "browser/service-worker",
-    "desktop/main",
-    "desktop/preload",
+    "frames/*",
     "packages/*"
   ],
   "engines": {
@@ -19,15 +14,16 @@
   },
   "scripts": {
     "prepare": "husky install",
-    "develop": "node node_modules/@nbundle/cli develop",
-    "build": "node node_modules/@nbundle/cli build",
-    "preview": "node node_modules/@nbundle/cli preview",
-    "ship": "node node_modules/@nbundle/cli ship"
+    "develop": "nbundle develop",
+    "build": "nbundle build",
+    "preview": "nbundle preview",
+    "ship": "nbundle ship"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.0.2",
     "@commitlint/config-angular": "^17.0.0",
     "@commitlint/prompt-cli": "^17.0.0",
+    "@nbundle/cli": "^1.0.9",
     "cspell": "^6.1.1",
     "husky": "^8.0.1",
     "lint-staged": "^13.0.0",
