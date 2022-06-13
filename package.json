@@ -5,8 +5,7 @@
   "description": "Example of a nbundle app",
   "private": true,
   "workspaces": [
-    "frames/*",
-    "packages/*"
+    "app"
   ],
   "engines": {
     "node": ">=14.0.0",
