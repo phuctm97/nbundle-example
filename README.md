@@ -16,7 +16,7 @@ This will automatically open the target browser for you with the extension autom
 
 Change `--target` to `firefox`, `edge`, or `desktop` to develop for different platforms.
 
-You can start editing the app by modifying app/index.js. The extension auto-updates as you edit the file.
+You can start editing the app by modifying [`app/index.jsx`](app/index.jsx). The extension auto-updates as you edit the file.
 
 # Ship your project
 
@@ -36,5 +36,5 @@ To learn more about [nbundle], take a look at the following resources:
 
 <!-- Links -->
 
-[nbundle]: https://developers.nbundle.com
-[create-notion-app]: https://npmjs.com/package/create-notion-app
+[nbundle]: https://www.nbundle.com
+[create-notion-app]: https://www.github.com/nbundle/create-notion-app

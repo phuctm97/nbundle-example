@@ -7,7 +7,6 @@
   "files.insertFinalNewline": true,
   "files.exclude": {
     "**/node_modules": true,
-    "out": true,
     "yarn.lock": true,
     ".husky": true
   },
