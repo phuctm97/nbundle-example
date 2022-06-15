@@ -1,5 +1,5 @@
 {
-  "name": "@nbundle/example",
+  "name": "nbundle-example",
   "version": "0.0.0",
   "productName": "nbundle example",
   "description": "Example of a nbundle app",
