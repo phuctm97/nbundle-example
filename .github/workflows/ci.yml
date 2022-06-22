@@ -19,4 +19,4 @@ jobs:
         run: echo "${{ github.event.head_commit.message }}" | yarn commitlint
       - run: yarn prettier --check .
       - run: yarn cspell --no-must-find-files '**'
-      # - run: yarn build
+      - run: yarn build
