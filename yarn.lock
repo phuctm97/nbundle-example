@@ -519,17 +519,17 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
-"@nbundle/cli@^1.0.26":
-  version "1.0.26"
-  resolved "https://registry.yarnpkg.com/@nbundle/cli/-/cli-1.0.26.tgz#c7e919570f6066ad2fa9828f559d2acab1286257"
-  integrity sha512-aae/WR2/qKLr7qpgCAHGxGGVf0QhBFyjmCtvQw5yO4Q6XqnR1Cq0AD5nqDejLwcBT/gfz9D9wgSu0NWVQ7IMXg==
+"@nbundle/cli@^1.0.28":
+  version "1.0.28"
+  resolved "https://registry.yarnpkg.com/@nbundle/cli/-/cli-1.0.28.tgz#07fc454a7675d39e1a373a46d416bd9567c4800f"
+  integrity sha512-5eApoH0r8ehwsxzxx7Aa3UKjMorT+GOMMGcuxesYW1YHsm9q93t6nkgI0CJZ0ZVPX1qihrVAF/kr8pdnjvQq9w==
   dependencies:
     webpack "^5.73.0"
 
-"@nbundle/react@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@nbundle/react/-/react-1.0.1.tgz#6b628f5a5745d486d16c2467d3e70dc79c16e17d"
-  integrity sha512-V206/704HDC2uczr0xhInevr0bHjr01IKyFk5uMP6kF0VuZkCbvUdlmBjpSfgH2dJWHaiv4hBuQ0xAIVxEIFLg==
+"@nbundle/react@^1.0.2":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@nbundle/react/-/react-1.0.2.tgz#4d646900549bb8888fdaab6517040bf362bde91c"
+  integrity sha512-/r1y6MWM+JjNCQ+icjb3QovxpRE+NmwWeaGqM+dlpHNQghmAQcL3+2rxUHdgsaUJ1InQ6bSPc5Upt0waUVkR9w==
   dependencies:
     react "^18.2.0"
     react-dom "^18.2.0"
