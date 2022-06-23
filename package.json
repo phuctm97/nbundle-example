@@ -10,21 +10,21 @@
     "node": ">=14.0.0",
     "yarn": "^1.22.0"
   },
+  "devDependencies": {
+    "@commitlint/cli": "^17.0.2",
+    "@commitlint/config-angular": "^17.0.0",
+    "@commitlint/prompt-cli": "^17.0.0",
+    "@nbundle/cli": "^1.0.21",
+    "cspell": "^6.1.2",
+    "husky": "^8.0.1",
+    "lint-staged": "^13.0.2",
+    "prettier": "^2.7.1"
+  },
   "scripts": {
     "prepare": "husky install",
     "develop": "nbundle develop",
     "build": "nbundle build",
     "preview": "nbundle preview",
     "ship": "nbundle ship"
-  },
-  "devDependencies": {
-    "@commitlint/cli": "^17.0.2",
-    "@commitlint/config-angular": "^17.0.0",
-    "@commitlint/prompt-cli": "^17.0.0",
-    "@nbundle/cli": "^1.0.21",
-    "cspell": "^6.1.1",
-    "husky": "^8.0.1",
-    "lint-staged": "^13.0.0",
-    "prettier": "^2.6.2"
   }
 }

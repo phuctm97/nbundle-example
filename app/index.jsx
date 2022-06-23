@@ -1,5 +1,5 @@
 import { useCallback, useEffect, useState } from "react";
-import { TopbarMenuButtonItem, TopbarMenuToggleItem } from "@nbundle/react";
+import { TopbarMenuItem } from "@nbundle/react";
 
 export default function App() {
   const showTwitterPreview = useCallback(() => {
@@ -11,11 +11,13 @@ export default function App() {
   }, [enableCustomTheme]);
   return (
     <>
-      <TopbarMenuButtonItem
+      <TopbarMenuItem
+        type="button"
         text="Show Twitter preview"
         onClick={showTwitterPreview}
       />
-      <TopbarMenuToggleItem
+      <TopbarMenuItem
+        type="toggle"
         text="Custom theme"
         value={enableCustomTheme}
         onChange={setEnableCustomTheme}
