@@ -548,19 +548,17 @@
     style-loader "^3.3.1"
     webpack "^5.73.0"
 
-"@nbundle/react-types@^1.0.3":
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/@nbundle/react-types/-/react-types-1.0.4.tgz#0e6b28d1836b889c10c34f1b38821168d66acbf8"
-  integrity sha512-wlleS19OWmclTIDBvG7EoTOtCEAtQpzHCZJOvpGRyAz2oh0qUSdOFnQ++6BdB+ZIHIASRy7Uc6ZCGh08Ov89Ag==
-  dependencies:
-    react-icons "^4.4.0"
+"@nbundle/react-types@^1.0.17":
+  version "1.0.18"
+  resolved "https://registry.yarnpkg.com/@nbundle/react-types/-/react-types-1.0.18.tgz#863022656ac3a210fde6fdfa853bfb5cfc9daf1e"
+  integrity sha512-4+HDFeuajo82fmjx5MNoq9LilzHLGVYuFojBS2IscnJWBTswUijUQyHH+xkwcctvPqjA5OyeKB9/lJuB32JTpg==
 
-"@nbundle/react@^1.0.11":
-  version "1.0.11"
-  resolved "https://registry.yarnpkg.com/@nbundle/react/-/react-1.0.11.tgz#8c112eec3fede6a639e538cd8cbd44753f1072a6"
-  integrity sha512-E9Udqk5zScWwWwMQaewRPN71k4RGsvLvK9a33M3JZTe8dyeVJA9rDcKdCjpixcozfqasrWGAwR01iCzDio8x5w==
+"@nbundle/react@^1.0.15":
+  version "1.0.15"
+  resolved "https://registry.yarnpkg.com/@nbundle/react/-/react-1.0.15.tgz#baaf7cee006df8741c11cc76bb7278eeb65fc3ca"
+  integrity sha512-thH8M2SYLknG4Ubi5apHSinmsEj1WC4AJqIAGZOaouVDehgsEusXV/5evCj4iikRvbSeHBHIicidHqdRactftA==
   dependencies:
-    "@nbundle/react-types" "^1.0.3"
+    "@nbundle/react-types" "^1.0.17"
     react-icons "^4.4.0"
 
 "@tsconfig/node10@^1.0.7":
