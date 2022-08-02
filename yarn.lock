@@ -520,29 +520,27 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
-"@nbundle/cli@^1.0.57":
-  version "1.0.57"
-  resolved "https://registry.yarnpkg.com/@nbundle/cli/-/cli-1.0.57.tgz#44248d2855082f6726003ca1627cc062fba7f98b"
-  integrity sha512-TznGlNr6x5UB8PvHrT2AG1sIi/TUkXL+GUQbAhGO520H74wVSa4/aXwU7CUPqGroq04NUw0DAzIwD8Ei9ffTTQ==
+"@nbundle/cli@^1.0.61":
+  version "1.0.61"
+  resolved "https://registry.yarnpkg.com/@nbundle/cli/-/cli-1.0.61.tgz#d5f901a9a835ed960fde7241569f01b169066edf"
+  integrity sha512-UzLZoMNP+CyH5gIkE7wXTtH+0/mBSK60ShHxOeE3+3xOiubNNbnUGVSTxjjalBOGvEh6CEWF3KY7LGYCJo+o4g==
   dependencies:
     css-loader "^6.7.1"
     sharp "^0.30.7"
     style-loader "^3.3.1"
     webpack "^5.73.0"
 
-"@nbundle/react-types@^1.0.3":
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/@nbundle/react-types/-/react-types-1.0.4.tgz#0e6b28d1836b889c10c34f1b38821168d66acbf8"
-  integrity sha512-wlleS19OWmclTIDBvG7EoTOtCEAtQpzHCZJOvpGRyAz2oh0qUSdOFnQ++6BdB+ZIHIASRy7Uc6ZCGh08Ov89Ag==
-  dependencies:
-    react-icons "^4.4.0"
+"@nbundle/react-types@^1.0.17":
+  version "1.0.18"
+  resolved "https://registry.yarnpkg.com/@nbundle/react-types/-/react-types-1.0.18.tgz#863022656ac3a210fde6fdfa853bfb5cfc9daf1e"
+  integrity sha512-4+HDFeuajo82fmjx5MNoq9LilzHLGVYuFojBS2IscnJWBTswUijUQyHH+xkwcctvPqjA5OyeKB9/lJuB32JTpg==
 
-"@nbundle/react@^1.0.11":
-  version "1.0.11"
-  resolved "https://registry.yarnpkg.com/@nbundle/react/-/react-1.0.11.tgz#8c112eec3fede6a639e538cd8cbd44753f1072a6"
-  integrity sha512-E9Udqk5zScWwWwMQaewRPN71k4RGsvLvK9a33M3JZTe8dyeVJA9rDcKdCjpixcozfqasrWGAwR01iCzDio8x5w==
+"@nbundle/react@^1.0.18":
+  version "1.0.18"
+  resolved "https://registry.yarnpkg.com/@nbundle/react/-/react-1.0.18.tgz#5c56bf94eddee34b262a2bca8199957f533d7d92"
+  integrity sha512-zWr3KtWsR8gXKVNeoCsssK7p0HBrD1Vnxw23R3M+g81HRORIecA+D4SjGAZ/PCPn3L/aTvYlMW1h5JXrrVPHzA==
   dependencies:
-    "@nbundle/react-types" "^1.0.3"
+    "@nbundle/react-types" "^1.0.17"
     react-icons "^4.4.0"
 
 "@tsconfig/node10@^1.0.7":
