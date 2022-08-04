@@ -1,4 +1,4 @@
-> [nbundle][nbundle-powered] is in early access and requires an invite code to use.
+> [nbundle for Developers][nbundle-powered] is in early access and requires an invite code to use.
 >
 > ⤷ [Sign up for early access](https://developers.nbundle.com/early-access).
 
@@ -38,9 +38,11 @@ This will ask you to log into your [nbundle Developer account][nbundle-powered] 
 
 To learn more about [nbundle], take a look at the following resources:
 
-- [nbundle Documentation](https://developers.nbundle.com) - learn about [nbundle] features and API.
+- [nbundle App Store](https://nbundle.com) - get the App Store to see how Notion users discover and use apps.
 
-- [nbundle API Reference](https://developers.nbundle.com/docs/api) - a complete reference of the [nbundle] API.
+- [nbundle Documentation](https://developers.nbundle.com) - learn about nbundle features, architecture, and APIs.
+
+- [nbundle API Reference](https://developers.nbundle.com/docs/api) - see a complete reference of the nbundle APIs.
 
 <!-- Links -->
 
