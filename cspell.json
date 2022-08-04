@@ -7,5 +7,5 @@
     ".vscode",
     "out"
   ],
-  "words": ["commitlint", "minh", "nbundle", "phuc", "topbar"]
+  "words": ["commitlint", "minh", "nbundle", "phuc", "sourcemaps", "topbar"]
 }

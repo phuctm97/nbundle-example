@@ -1,40 +1,49 @@
-**⚠️ This project is under development and is not ready for public use.**
-
-All `1.0.x` releases are considered `alpha` releases, are not stable, and may have breaking changes.
+> [nbundle][nbundle-powered] is in early access and requires an invite code to use.
+>
+> ⤷ [Sign up for early access](https://developers.nbundle.com/early-access).
 
 ---
 
-This is a [nbundle] project bootstrapped with [create-notion-app].
+**⚠️ All `1.0.x` releases are `alpha` releases, are not stable, and may have breaking changes.**
+
+---
 
 # Get started
+
+This is an [nbundle-powered] Notion app bootstrapped with [create-notion-app].
+
+## Develop your project
+
+Open your terminal, go to your project directory, and run the following command:
 
 ```shell
 yarn develop --target chrome
 ```
 
-This will automatically open the target browser for you with the extension automatically installed.
+The nbundle CLI will automatically start a development server to build & serve your app, it will also open the browser with your app automatically loaded for development with hot-reloading and sourcemaps support.
 
-Change `--target` to `firefox`, `edge`, or `desktop` to develop for different platforms.
+Change the `--target` parameter to `edge` or `firefox` if you want to use Microsoft Edge or Firefox instead of Chrome.
 
-You can start editing the app by modifying [`app/index.jsx`](app/index.jsx). The extension auto-updates as you edit the file.
+You can edit the app by modifying [`app/index.jsx`](app/index.jsx). The app auto-updates as you edit the file.
 
-# Ship your project
+## Ship your project
 
 ```shell
 yarn ship
 ```
 
-This will ask you to log into your [nbundle] Developer account if you haven't already, then build & publish your project to all platforms you've configured. Depending on the target platform, your project may be pending for review & approval.
+This will ask you to log into your [nbundle Developer account][nbundle-powered] if you haven't already, then build & publish your project to the platforms you've configured. Depending on the target platform, your project may be pending for review & approval.
 
 # Learn more
 
 To learn more about [nbundle], take a look at the following resources:
 
-- [nbundle Documentation](https://developers.nbundle.com/guides) - learn about [nbundle] features and API.
+- [nbundle Documentation](https://developers.nbundle.com) - learn about [nbundle] features and API.
 
-- [nbundle API Reference](https://developers.nbundle.com/api) - a complete reference of the [nbundle] API.
+- [nbundle API Reference](https://developers.nbundle.com/docs/api) - a complete reference of the [nbundle] API.
 
 <!-- Links -->
 
 [nbundle]: https://www.nbundle.com
+[nbundle-powered]: https://developers.nbundle.com
 [create-notion-app]: https://www.github.com/nbundle/create-notion-app

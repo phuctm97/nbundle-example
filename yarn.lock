@@ -538,10 +538,10 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
-"@nbundle/cli@^1.0.61":
-  version "1.0.61"
-  resolved "https://registry.yarnpkg.com/@nbundle/cli/-/cli-1.0.61.tgz#d5f901a9a835ed960fde7241569f01b169066edf"
-  integrity sha512-UzLZoMNP+CyH5gIkE7wXTtH+0/mBSK60ShHxOeE3+3xOiubNNbnUGVSTxjjalBOGvEh6CEWF3KY7LGYCJo+o4g==
+"@nbundle/cli@^1.0.64":
+  version "1.0.64"
+  resolved "https://registry.yarnpkg.com/@nbundle/cli/-/cli-1.0.64.tgz#5f985f609bca776fd84708dff918eafc6bda0e3d"
+  integrity sha512-XacOisidKM+rx5aktwQk2CfF+H9m+AgEaavE1C3C6i22iDS1yBTf1mlVVtqM9d1yTrrbrANjcTK741Qn0MRTxw==
   dependencies:
     css-loader "^6.7.1"
     sharp "^0.30.7"
@@ -553,10 +553,10 @@
   resolved "https://registry.yarnpkg.com/@nbundle/react-types/-/react-types-1.0.18.tgz#863022656ac3a210fde6fdfa853bfb5cfc9daf1e"
   integrity sha512-4+HDFeuajo82fmjx5MNoq9LilzHLGVYuFojBS2IscnJWBTswUijUQyHH+xkwcctvPqjA5OyeKB9/lJuB32JTpg==
 
-"@nbundle/react@^1.0.18":
-  version "1.0.18"
-  resolved "https://registry.yarnpkg.com/@nbundle/react/-/react-1.0.18.tgz#5c56bf94eddee34b262a2bca8199957f533d7d92"
-  integrity sha512-zWr3KtWsR8gXKVNeoCsssK7p0HBrD1Vnxw23R3M+g81HRORIecA+D4SjGAZ/PCPn3L/aTvYlMW1h5JXrrVPHzA==
+"@nbundle/react@^1.0.21":
+  version "1.0.21"
+  resolved "https://registry.yarnpkg.com/@nbundle/react/-/react-1.0.21.tgz#832bda1a06126a730f6536ce218f702693d401b9"
+  integrity sha512-PJAXhqSfnWYU3PYMwF+uZ9Il5aK/JU1izk1ijCKtV0OX5PGITqFQl4EvTfF/mpFjKRV7pgGMyOtcf7Rw/JMJ6A==
   dependencies:
     "@nbundle/react-types" "^1.0.17"
     react-icons "^4.4.0"
