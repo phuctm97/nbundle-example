@@ -553,10 +553,10 @@
   resolved "https://registry.yarnpkg.com/@nbundle/react-types/-/react-types-1.0.18.tgz#863022656ac3a210fde6fdfa853bfb5cfc9daf1e"
   integrity sha512-4+HDFeuajo82fmjx5MNoq9LilzHLGVYuFojBS2IscnJWBTswUijUQyHH+xkwcctvPqjA5OyeKB9/lJuB32JTpg==
 
-"@nbundle/react@^1.0.21":
-  version "1.0.21"
-  resolved "https://registry.yarnpkg.com/@nbundle/react/-/react-1.0.21.tgz#832bda1a06126a730f6536ce218f702693d401b9"
-  integrity sha512-PJAXhqSfnWYU3PYMwF+uZ9Il5aK/JU1izk1ijCKtV0OX5PGITqFQl4EvTfF/mpFjKRV7pgGMyOtcf7Rw/JMJ6A==
+"@nbundle/react@^1.0.24":
+  version "1.0.24"
+  resolved "https://registry.yarnpkg.com/@nbundle/react/-/react-1.0.24.tgz#e2e87f6667604b1b2ddb7e6d5aa4f7872762ea9f"
+  integrity sha512-oi9kvkdnDGsW359XwmOapfJFJFQ3LpIpMAAsZu8H4/us8waz4ooObyA1LqxpWVentxjjlzuE3v6uWShvtIHDcQ==
   dependencies:
     "@nbundle/react-types" "^1.0.17"
     react-icons "^4.4.0"

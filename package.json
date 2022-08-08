@@ -8,7 +8,7 @@
     "yarn": "^1.22.0"
   },
   "dependencies": {
-    "@nbundle/react": "^1.0.21",
+    "@nbundle/react": "^1.0.24",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.4.0"
@@ -26,8 +26,11 @@
   "scripts": {
     "prepare": "husky install",
     "develop": "nbundle develop",
+    "dev": "nbundle develop",
     "build": "nbundle build",
     "preview": "nbundle preview",
-    "ship": "nbundle ship"
+    "start": "nbundle preview",
+    "ship": "nbundle ship",
+    "deploy": "nbundle ship"
   }
 }
